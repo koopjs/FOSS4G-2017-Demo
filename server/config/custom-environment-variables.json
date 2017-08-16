@@ -1,6 +1,0 @@
-{
-  "port": "KOOP_PORT",
-  "googlesheets": {
-    "auth": "GOOGLESHEETS_AUTH"
-  }
-}
