@@ -1,0 +1,14 @@
+#viewDiv {
+  padding: 0;
+  margin: 0;
+  width: 50%;
+}
+
+#spreadsheet {
+  min-height: 500px;
+  width: 50%;
+}
+
+.top-row {
+  /*height: 50%;*/
+}
